@@ -1,4 +1,4 @@
-[SHG_Booking_Data.xlsx](https://github.com/tsefaye99/SPLENDOR-HOTEL-GROUP/files/13578999/SHG_Booking_Data.xlsx)_**Disclaimer_**: This is a personal project on data analysis to test my skill in data cleaning, modelling, visualization and how to use data to generate relevant information to help business take wise and informed decision. 
+**_Disclaimer_**: This is a personal project on data analysis to test my skill in data cleaning, modelling, visualization and how to use data to generate relevant information to help business take wise and informed decision. 
 
 ![](cover_image.jpg)
 
@@ -23,7 +23,7 @@ Greetings from Splendor Hotel Groups (SHG). As a recently recruited Business Int
 -	Can we identify optimal pricing strategies based on the Average Daily Rate (ADR) for different customer types and distribution channels?
 
 ## Skills/Concepts Demonstrated
-The only one tool was used for this project and a few concepts:
+only one tool was used for this project and some few concepts:
 - Excel was used to wrangle the data, explore the data, and build the customer segmentation model.
   - The data was turned into a table, the fact table
   - The dimension table was created with pivot table
@@ -33,9 +33,11 @@ The only one tool was used for this project and a few concepts:
 [SHG_Booking_Data.xlsx](https://github.com/tsefaye99/SPLENDOR-HOTEL-GROUP/files/13579000/SHG_Booking_Data.xlsx)
 
 ## Analysis and Visualizations
-![](SHG_Dashboard.jfif)
+![](SHG_Dashboard1.jfif)
 
-- The booking pattern is a positive one, 
+### Booking Pattern Analysis
+- The booking pattern is a positive one, over 100k+ booking in a period of 5years.
+- January, February and October are the months with the highest booking activities with each experiencing over 10k+ bookings.
 
 
 
