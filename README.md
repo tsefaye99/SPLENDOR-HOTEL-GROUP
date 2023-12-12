@@ -74,3 +74,5 @@ only one tool was used for this project and some few concepts:
 - With close to 30M in revenue, the EuroZone has shown to be the biggest contributing plays in, expansion is needed to increase revenue, where else other than the developing continent of Asia, with a rising middle class, countries like China, India, South Korea, Taiwan, Singapore and so on. It is best next stop for the Group to set up, at least three hotels (two in the city and one resort). Thailand and Singapore are the best location as there are not involved in tension politics on the continent and are open to all citizens of the countries on the continent. Thailand is also a hotbed for tourist so is Singapore.
 
 **Note:** _Not all files(images) uploaded was used._
+
+Thank you.
