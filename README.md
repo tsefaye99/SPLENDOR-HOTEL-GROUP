@@ -39,5 +39,7 @@ only one tool was used for this project and some few concepts:
 - The booking pattern is a positive one, over 100k+ booking in a period of 5years.
 - January, February and October are the months with the highest booking activities with each experiencing over 10k+ bookings.
 
+  
+
 
 
