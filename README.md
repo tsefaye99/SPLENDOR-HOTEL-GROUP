@@ -1,6 +1,6 @@
 **_Disclaimer_**: This is a personal project on data analysis to test my skill in data cleaning, modelling, visualization and how to use data to generate relevant information to help business take wise and informed decision. 
 
-**Note:** _Not all files(images) uploaded was used._
+**Note:** _Not all files (images) uploaded was used._
 
 ![](cover_image.jpg)
 
